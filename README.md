@@ -1,1 +1,33 @@
 # phpBySagat_NOTEBOOK
+
+## PHP_PART-1_The Introduction to PHP Handbook 
+
+![1](https://imgur.com/NZQ2EKv.jpg)
+![2](https://imgur.com/4HuUsmv.jpg)
+![3](https://imgur.com/AtbEih3.jpg)
+![4](https://imgur.com/Cq5B5Gm.jpg)
+![5](https://imgur.com/iBJTPoA.jpg)
+![6](https://imgur.com/SDZkj9x.jpg)
+![7](https://imgur.com/zB88ExY.jpg)
+![8](https://imgur.com/thfHC9P.jpg)
+![9](https://imgur.com/XRYTmpy.jpg)
+![10](https://imgur.com/Q5o5vpv.jpg)
+![11](https://imgur.com/gk7AmZm.jpg)
+![12](https://imgur.com/7TvE1h6.jpg)
+![13](https://imgur.com/qg0Jo3j.jpg)
+![14](.jpg)
+![15](.jpg)
+![16](.jpg)
+![17](.jpg)
+![18](.jpg)
+![19](.jpg)
+![20](.jpg)
+![21](.jpg)
+![22](.jpg)
+![23](.jpg)
+![24](.jpg)
+![25](.jpg)
+![26](.jpg)
+![27](.jpg)
+![28](.jpg)
+
