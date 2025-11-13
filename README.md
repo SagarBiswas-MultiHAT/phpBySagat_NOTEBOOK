@@ -35,35 +35,29 @@
 
 ## PHP_PART-3_The PHP Sessions and Cookies Handbook 
 
-# phpBySagat_NOTEBOOK
+![1](https://imgur.com/undefined.jpg)
+![2](https://imgur.com/undefined.jpg)
+![3](https://imgur.com/undefined.jpg)
+![4](https://imgur.com/undefined.jpg)
+![5](https://imgur.com/undefined.jpg)
+![6](https://imgur.com/undefined.jpg)
+![7](https://imgur.com/undefined.jpg)
+![8](https://imgur.com/undefined.jpg)
+![9](https://imgur.com/undefined.jpg)
 
-![1](https://imgur.com/a/PEJE6Xn#NZQ2EKv.jpg)
-![2](https://imgur.com/a/PEJE6Xn#4HuUsmv.jpg)
-![3](.jpg)
-![4](.jpg)
-![5](.jpg)
-![6](.jpg)
-![7](.jpg)
-![8](.jpg)
-![9](.jpg)
-![10](.jpg)
-![11](.jpg)
-![12](.jpg)
-![13](.jpg)
-![14](.jpg)
-![15](.jpg)
-![16](.jpg)
-![17](.jpg)
-![18](.jpg)
-![19](.jpg)
-![20](.jpg)
-![21](.jpg)
-![22](.jpg)
-![23](.jpg)
-![24](.jpg)
-![25](.jpg)
-![26](.jpg)
-![27](.jpg)
-![28](.jpg)
+## PHP_PART-4_The Data Access Using PHP Handbook
 
+![1](https://imgur.com/p8LEwcL.jpg)
+![2](https://imgur.com/bl4IYnc.jpg)
+![3](https://imgur.com/WjpOzop.jpg)
+![4](https://imgur.com/Bt3Tj7C.jpg)
+![5](https://imgur.com/VK1TeRj.jpg)
+![6](https://imgur.com/5G36DEd.jpg)
+![7](https://imgur.com/8Nc6UTS.jpg)
+![8](https://imgur.com/tBhd8Ay.jpg)
 
+## PHP_PART-5_The PHP and MySQL: Complete Guide
+## PHP_PART-6_The PHP MVC Handbook
+## PHP_PART-7_AJAX & JSON — A Comprehensive Guide
+
+check the pdfs
